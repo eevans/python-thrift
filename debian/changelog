@@ -1,0 +1,5 @@
+python-thrift (0.8.0-1) unstable; urgency=low
+
+  * Initial release. (Closes: #648452).
+
+ -- Eric Evans <eevans@debian.org>  Mon, 09 Jul 2012 17:07:17 -0600
