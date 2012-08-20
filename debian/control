@@ -3,7 +3,7 @@ Maintainer: Eric Evans <eevans@debian.org>
 Section: devel
 Priority: extra
 Standards-Version: 3.9.3
-Build-Depends: debhelper (>= 9), python-all-dev
+Build-Depends: debhelper (>= 9), python-all-dev (>= 2.6.6-3~)
 Homepage: http://thrift.apache.org
 Vcs-Git: git://anonscm.debian.org/users/eevans/python-thrift.git
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=users/eevans/python-thrift.git;a=summary
