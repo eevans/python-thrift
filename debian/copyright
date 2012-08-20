@@ -8,6 +8,12 @@ License: Apache-2.0
  On Debian systems, the full text of the Apache License 2.0 can be found in
  the file `/usr/share/common-licenses/Apache-2.0'.
 
+Files: compat/win32/stdint.h
+Copyright: Copyright (c) 2006-2008 Alexander Chemeris
+License: BSD-3-clause
+ On Debian systems, the full text of the BSD license can be found in the
+ file `/usr/share/common-licenses/BSD'.
+
 Files: debian/*
 Copyright: Copyright 2012 Eric Evans <eevans@debian.org>
 License: GPL-2+
