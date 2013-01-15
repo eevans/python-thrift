@@ -1,3 +1,9 @@
+python-thrift (0.9.0-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Eric Evans <eevans@debian.org>  Tue, 15 Jan 2013 01:55:02 +0000
+
 python-thrift (0.8.0-2) unstable; urgency=low
 
   * Updated python-all-dev build dependency to (>= 2.6.6-3~).
